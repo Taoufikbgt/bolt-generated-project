@@ -1,0 +1,75 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.upload-section {
+  margin-bottom: 20px;
+}
+
+.upload-section h2 {
+  margin-bottom: 10px;
+}
+
+.upload-section input[type="file"] {
+  margin-bottom: 10px;
+}
+
+.mapping-section {
+  margin-bottom: 20px;
+}
+
+.mapping-section h2 {
+  margin-bottom: 10px;
+}
+
+.mapping-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mapping-table th, .mapping-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.mapping-table th {
+  background-color: #f2f2f2;
+}
+
+.product-sheet-section {
+  margin-bottom: 20px;
+}
+
+.product-sheet-section h2 {
+  margin-bottom: 10px;
+}
+
+.product-sheet-preview {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.product-sheet-preview h3 {
+  margin-bottom: 5px;
+}
+
+.product-sheet-preview p {
+  margin-bottom: 5px;
+}
+
+.product-sheet-preview img {
+  max-width: 200px;
+  max-height: 200px;
+  margin-bottom: 10px;
+}
+
+.button-group {
+  margin-bottom: 10px;
+}
+
+.button-group button {
+  margin-right: 5px;
+}
